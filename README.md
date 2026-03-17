@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nisha R S
 - 🌱 I’m currently learning B.Tech in CSE
-- 👀 I’m interested in markup language
 
 
 <!---
