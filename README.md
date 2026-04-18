@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Nisha R S
 - 🌱 I’m currently learning B.Tech in CSE
 
-
+<a href=""C:\Users\rsn36\Downloads\eecbce26-4551-44a3-805c-a32440ec42d3.png"">
+  <img src="https://raw.githubusercontent.com/Nishars021/Nishars021/main/hp-life-badge.png" height="100" style="border-radius:50%;"/>
+</a>
 <!---
 Nishars021/Nishars021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
