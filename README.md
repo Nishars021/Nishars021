@@ -36,6 +36,8 @@ Tools : Git, GitHub, VS Code, Jupyter Notebook
 
 <img src="https://raw.githubusercontent.com/Nishars021/Nishars021/main/eecbce26-4551-44a3-805c-a32440ec42d3.png" height="100"/>
 
+<img src="https://raw.githubusercontent.com/Nishars021/Nishars021/main/Screenshot%202026-10-18%20220849.png" height="200"/>
+
 
 🌟 Motto
 
